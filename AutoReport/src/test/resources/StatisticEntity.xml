@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<t_AutoReport login_id="1"	ip="172.18.1.1"  value="0" created_date="2015-07-16 11:11:22"  updated_date="2015-07-16 11:11:22" />
+	<t_AutoReport login_id="2"	ip="172.18.2.1" value="1" created_date="2015-07-16 11:11:22" updated_date="2015-07-16 11:11:22"/>
+</dataset>
